@@ -33,7 +33,7 @@ Download this [repo](https://github.com/h3llolovely/SyncFPS/archive/refs/heads/m
 
 
 **When the script is run:**  
-- The Render Settings FPS will be set to the Project FPS from Project Settings.  
+- The <u>selected</u> Render Settings FPS will be set to the Project FPS from Project Settings.  
 - The Render Settings window or tab will open.
 
 
